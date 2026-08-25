@@ -1,0 +1,10 @@
+{
+  "ram_size_kb": 256,
+  "page_size_bytes": 4096,
+  "tlb_size": 16,
+  "latencies_ns": {
+    "tlb": 1,
+    "ram": 100,
+    "disk": 10000000
+  }
+}
